@@ -5,3 +5,4 @@ plugins:
     checks:
       Similar code:
         enabled: false
+repo_token: 0aIQ7DlfIb6GxPHupun89bwecayopQuln
