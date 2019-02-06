@@ -10,6 +10,8 @@ install:
   - pip install coveralls
   - pip install coverage
   - pip install codeclimate-test-reporter
+  - pip install pytest
+  - pip install pytest -cov
 
 # command to run tests
 script:
