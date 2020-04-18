@@ -16,7 +16,6 @@ install:
 # command to run tests
 script:
   - pytest
-  - pytest --cov=sudoku
 
 after_success:
   - coveralls
